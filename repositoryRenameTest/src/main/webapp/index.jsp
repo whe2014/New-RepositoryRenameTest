@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Rename test!</h2>
+<h2>New repository name! Rename test!</h2>
 </body>
 </html>
